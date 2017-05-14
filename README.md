@@ -1,0 +1,1 @@
+# WannaCry-Outbreak-Data-12-May-2017---19-May-2017-
