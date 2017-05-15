@@ -11,9 +11,9 @@ Complete article in French available [here][1]
 ## Facts
 
 * Number of infected hosts : 200000, according to [Europol][2]
-* Ransoms paid : est. 130 (15-05-17, 10:00 CET)
-* Ratio ransom paid / infected hosts : 0.065%
-* Total paid : est. 25 BTC (40000€)
+* Ransoms paid : est. 175 (15-05-17, 14:00 CET)
+* Ratio ransom paid / infected hosts : 0.087%
+* Total paid : est. 29.62 BTC (47000€)
 
 ## Timeline
 
