@@ -1,4 +1,4 @@
-# WannaCry Outbreak Data (12May2017 - 19 May 2017)
+# WannaCry Outbreak Data (12 May 2017 - 19 May 2017)
 
 ## Overview
 
@@ -6,11 +6,11 @@ Complete data about ransom payments for the WannaCry outbreak in Europa, startin
 
 The ransomware is currently asking for bitcoins on three adresses : 115p7UMMngoj1pMvkpHijcRdfJNXj6LrLn, 12t9YDPgwueZ9NyMgw519p7AA8isjr6SMw and 13AM4VW2dhxYgXeQepoHkHSQuy6NgaEb94.
 
-Complete article in French available here : https://www.linkedin.com/pulse/des-virus-et-hommes-romain-willmann
+Complete article in French available [here][1] 
 
 ## Facts
 
-* Number of infected hosts : 200000, according to Europol
+* Number of infected hosts : 200000, according to [Europol][2]
 * Ransoms paid : est. 130 (15-05-17, 10:00 CET)
 * Ratio ransom paid / infected hosts : 0.065%
 * Total paid : est. 25 BTC (40000€)
@@ -21,4 +21,7 @@ Complete article in French available here : https://www.linkedin.com/pulse/des-v
 * 12-10-17, 11:07 CET : first ransom paid
 * 15-10-17, 23:59 CET : the ransom will double
 * 19-10-17, 23:59 CET : files will be lost
+
+[1]: https://www.linkedin.com/pulse/des-virus-et-hommes-romain-willmann
+[2]: http://www.bbc.com/news/technology-39913630
 
